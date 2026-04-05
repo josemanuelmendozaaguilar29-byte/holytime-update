@@ -1,5 +1,5 @@
-{
-  "enabled": true,
-  "video_url": "https://tu-servidor.com/video.mp4",
-  "click_url": "https://holytime.rf.gd/oferta"
+{  "enabled": true,
+  "video_url": "URL_DE_TU_VIDEO",
+  "click_url": "https://holytime.rf.gd",
+  "ad_seconds": 10
 }
