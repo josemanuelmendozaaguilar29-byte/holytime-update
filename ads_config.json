@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "video_url": "URL_DEL_VIDEO_EN_GITHUB",
-  "click_url": "URL_DE_TU_WHATSAPP_O_WEB",
-  "ad_title": "Táchira Comic Con",
-  "ad_description": "¡Hola! El equipo COMIC CON está...",
-  "ad_logo": "URL_DE_UNA_IMAGEN_CIRCULAR",
+  "video_url": "https://github.com/josemanuelmendozaaguilar29-byte/holytime-update/raw/refs/heads/main/videos/publicidadbarberiaabrahan%20(1).mp4",
+  "click_url": "https://wa.me/qr/3PGVSN4M5IT2I1",
+  "ad_title": "Barveria Abraham",
+  "ad_description": "¡Hola! Ven y disfruta de un buen corte...",
+  "ad_logo": "URL_DE_",
   "ad_seconds": 15,
   "skip_available_after": 5
 }
