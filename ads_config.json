@@ -1,11 +1,33 @@
 {
   "enabled": true,
-  "video_url": "https://github.com/josemanuelmendozaaguilar29-byte/holytime-update/raw/refs/heads/main/videos/publicidadbarberiaabrahan%20(1).mp4",
-  "click_url": "https://wa.me/qr/3PGVSN4M5IT2I1",
-  "ad_title": "Barberia Abraham",
-  "ad_description": "¡Hola! Ven y disfruta de un buen corte...",
-  "ad_logo": "https://raw.githubusercontent.com/josemanuelmendozaaguilar29-byte/holytime-update/refs/heads/main/imagenes/WhatsApp%20Image%202026-04-08%20at%209.43.38%20AM.jpeg",
-  "ad_seconds": 15,
-  "skip_available_after": 5,
-  "delay_hours": 4
+  "delay_hours": 4,
+  "ads": [
+    {
+      "video_url": "https://github.com/josemanuelmendozaaguilar29-byte/holytime-update/raw/refs/heads/main/videos/publicidadbarberiaabrahan%20(1).mp4",
+      "click_url": "https://wa.me/qr/3PGVSN4M5IT2I1",
+      "ad_title": "Barberia Abraham",
+      "ad_description": "¡Hola! Ven y disfruta...",
+      "ad_logo": "https://raw.githubusercontent.com/josemanuelmendozaaguilar29-byte/holytime-update/refs/heads/main/imagenes/WhatsApp%20Image%202026-04-08%20at%209.43.38%20AM.jpeg",
+      "ad_seconds": 15,
+      "skip_available_after": 10
+    },
+    {
+      "video_url": "AQUI_TU_VIDEO_2.mp4",
+      "click_url": "https://wa.me/yyy",
+      "ad_title": "Restaurante El Buen Sabor",
+      "ad_description": "Comida 100% casera",
+      "ad_logo": "URL_LOGO_2.png",
+      "ad_seconds": 15,
+      "skip_available_after": 5
+    },
+    {
+      "video_url": "AQUI_TU_VIDEO_3.mp4",
+      "click_url": "https://wa.me/zzz",
+      "ad_title": "Taller Mecánico",
+      "ad_description": "Arreglamos tu motor.",
+      "ad_logo": "URL_LOGO_3.png",
+      "ad_seconds": 10,
+      "skip_available_after": 3
+    }
+  ]
 }
