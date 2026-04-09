@@ -21,11 +21,11 @@
       "skip_available_after": 5
     },
     {
-      "video_url": "AQUI_TU_VIDEO_3.mp4",
-      "click_url": "https://wa.me/zzz",
-      "ad_title": "Taller Mecánico",
-      "ad_description": "Arreglamos tu motor.",
-      "ad_logo": "URL_LOGO_3.png",
+      "video_url": "",
+      "click_url": "",
+      "ad_title": "",
+      "ad_description": "",
+      "ad_logo": "",
       "ad_seconds": 10,
       "skip_available_after": 3
     }
