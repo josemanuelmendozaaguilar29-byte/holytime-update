@@ -1,4 +1,25 @@
-{  "enabled": true,
-  "verse": "De hecho, en ningún otro hay salvación, porque no hay bajo el cielo otro nombre dado a los hombres mediante el cual podamos ser salvos.",
-  "reference": "Hechos 4:12 (NVI)"
+{
+  "enabled": true,
+  "verses": [
+    {
+      "verse": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+      "reference": "Juan 3:16"
+    },
+    {
+      "verse": "Todo lo puedo en Cristo que me fortalece.",
+      "reference": "Filipenses 4:13"
+    },
+    {
+      "verse": "Jehová es mi pastor; nada me faltará.",
+      "reference": "Salmos 23:1"
+    },
+    {
+      "verse": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien.",
+      "reference": "Romanos 8:28"
+    },
+    {
+      "verse": "Clama a mí, y yo te responderé, y te enseñaré cosas grandes y ocultas que tú no conoces.",
+      "reference": "Jeremías 33:3"
+    }
+  ]
 }
