@@ -21,11 +21,11 @@
       "skip_available_after": 10
     },
     {
-      "video_url": "",
-      "click_url": "",
-      "ad_title": "",
-      "ad_description": "",
-      "ad_logo": "",
+      "video_url": "https://youtu.be/b5BWCKdlw1s?si=5goF7ostVqRk2Mym",
+      "click_url": "https://thechosen.tv/es-us",
+      "ad_title": "the chosen",
+      "ad_description": "serie de tv",
+      "ad_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVP7xjAep3FIanvLtrQQBu2HyRqpaDN9m9hQb337mxsg&s=10",
       "ad_seconds": 10,
       "skip_available_after": 3
     }
