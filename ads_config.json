@@ -27,7 +27,15 @@
       "ad_description": "serie de tv",
       "ad_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVP7xjAep3FIanvLtrQQBu2HyRqpaDN9m9hQb337mxsg&s=10",
       "ad_seconds": 10,
-      "skip_available_after": 3
-    }
+      "skip_available_after": 10
+    },
+    {
+      "video_url": "https://youtu.be/SA8JBXlFuDM?si=IFcsZ1ss-vDBEhAy",
+      "click_url": "https://www.youtube.com/@almasagrada11",
+      "ad_title": "Alma Sagrada",
+      "ad_description": "Johanna Anton. Cristo vive en mi",
+      "ad_logo": "https://yt3.googleusercontent.com/MLJCXLRspXtYZ5lI4X59WzYSRjewocYhg_f9qhhYWhT-RG7kGmubebYGQrTedTUHLxyaTHqYGg=s160-c-k-c0x00ffffff-no-rj",
+      "ad_seconds": 10,
+      "skip_available_after": 10
   ]
 }
