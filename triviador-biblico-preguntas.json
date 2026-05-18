@@ -1,0 +1,28 @@
+[
+  {
+    "category": "Antiguo Testamento",
+    "type": "numeric",
+    "question": "¿Cuántos días duró el diluvio?",
+    "answer": "40"
+  },
+  {
+    "category": "Personajes",
+    "type": "numeric",
+    "question": "¿Cuántos años vivió Matusalén?",
+    "answer": "969"
+  },
+  {
+    "category": "Nuevo Testamento",
+    "type": "multiple_choice",
+    "question": "¿Quién traicionó a Jesús?",
+    "options": ["Pedro", "Judas", "Juan", "Mateo"],
+    "answer": "Judas"
+  },
+  {
+    "category": "Geografía",
+    "type": "multiple_choice",
+    "question": "¿En qué ciudad nació Jesús?",
+    "options": ["Jerusalén", "Nazaret", "Belén", "Jericó"],
+    "answer": "Belén"
+  }
+]
