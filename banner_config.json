@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "banners": [
+    {
+      "id": "banner_1",
+      "text": "<font color='#E91E63'><b>Finolis</b></font> tardó <font color='#FF5722'><b>9 minutos</b></font>, ¡pero aún así completó este nivel!",
+      "hour": 14,
+      "minute": 30,
+      "enter_duration_ms": 1000,
+      "display_duration_ms": 5000,
+      "exit_duration_ms": 1000,
+      "icon_url": ""
+    }
+  ]
+}
